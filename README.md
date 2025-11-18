@@ -1,1 +1,6 @@
 # git-course
+
+
+
+some info
+
